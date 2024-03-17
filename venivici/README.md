@@ -2,7 +2,7 @@
 
 Submitted by: Mahim Ali
 
-This web app: 
+This web app: Mars Rover Photos
 
 Time spent: 3 hours spent in total
 
